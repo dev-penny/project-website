@@ -1,4 +1,4 @@
-# project-website
+# Website Homepage
 This project based on theming basics. 
 This is my first attempt at building a responsive website from Sketch desing.
 
