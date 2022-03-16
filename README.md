@@ -8,5 +8,5 @@ This is my first attempt at building a responsive website from Sketch design.
 
 
 
-# Problems
+### Problems
 There is a problem with the svg format files, I don't know why :( ...
