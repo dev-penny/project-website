@@ -1,7 +1,7 @@
 # Website Homepage
-The project based on theming basics / Front-end Development
+The project based on theming basics - Front-end Development only.
 
-This is my first attempt at building a responsive website from Sketch design.
+Building a responsive website from a Sketch design using front-end technilogies.
 
 ## Overview
 
